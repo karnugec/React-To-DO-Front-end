@@ -1,8 +1,8 @@
 {
   "name": "todolist",
   "version": "0.1.0",
-  "homepage": "https://karnugec.github.io/React-To-Do-Front-end",
   "private": true,
+  "homepage": "https//karnugec.github.io/React-To-DO-Front-end",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
